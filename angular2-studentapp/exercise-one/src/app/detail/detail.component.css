@@ -1,0 +1,10 @@
+h2 {
+    color: #ffbb99;
+    text-shadow: none;
+    text-align: center;
+    font-weight: bold;
+}
+li{
+    list-style-type: none;
+    text-align: center;
+}

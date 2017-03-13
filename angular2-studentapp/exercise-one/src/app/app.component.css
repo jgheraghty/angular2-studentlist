@@ -1,0 +1,15 @@
+.main {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    border: 1px solid grey;
+    border-radius: 1%;
+    background-color: #e6fff7;
+
+}
+
+h3 {
+    color: #ffbb99;
+    text-shadow: none;
+}
